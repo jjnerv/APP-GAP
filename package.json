@@ -1,0 +1,30 @@
+{
+  "name": "CALC",
+  "version": "0.0.0",
+  "description": "Calculadora",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.6.2",
+    "gulp-less": "^1.2.3",
+    "gulp-util": "^2.2.14",
+    "gulp-watch": "^0.6.4",
+    "path": "^0.4.9"
+  },
+  "devDependencies": {
+    "gulp-less": "^1.2.3",
+    "gulp-watch": "^0.6.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jjnerv/APP-GAP.git"
+  },
+  "author": "Dino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjnerv/APP-GAP/issues"
+  },
+  "homepage": "https://github.com/jjnerv/APP-GAP"
+}
